@@ -1,4 +1,4 @@
-# Lab 01 - AWS Infrastructure as Code với Terraform và CloudFormation
+# Lab 01 - Dùng Terraform và CloudFormation để quản lý và triển khai hạ tầng AWS
 
 > **Môn học:** NT548.Q11 - DevOps  
 > **Mục tiêu:** Sử dụng Terraform và CloudFormation để quản lý và triển khai tự động hạ tầng AWS
